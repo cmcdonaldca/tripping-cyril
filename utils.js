@@ -29,7 +29,9 @@
 				console.log('error:', error);
 			}
 
-			done(error);
+			throw error;
+
+			done(JSON.stringify(error));
 		});
 	};
 
