@@ -4,7 +4,7 @@ A simple node.js app that attempts to duplicate parse.com problems experienced b
 
 ## Requirements
 
-* grunt-cli: make sure you have the grunt-cli installed: http://gruntjs.org
+* grunt-cli: make sure you have the grunt-cli installed: http://gruntjs.com/getting-started
 
 ## Setup
 
