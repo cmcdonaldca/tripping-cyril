@@ -14,5 +14,6 @@ cloud:
 install:
 		npm install
 		grunt install
+		parse deploy
 
 .PHONY: test cloud clean
